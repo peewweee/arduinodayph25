@@ -9,6 +9,8 @@ https://peewweee.github.io/arduinodayph25/
 
 ![Website](https://github.com/user-attachments/assets/d18ff4b0-f76b-438e-8b69-e08a2089e28e)
 
+
+
 ### Mobile View
 
 ![Mobile-1](https://github.com/user-attachments/assets/8ed0c96d-1f06-4fe3-9e94-8c66b028da8a)
