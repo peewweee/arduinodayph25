@@ -1,4 +1,4 @@
-# Arduino Day 2025 Website PrototypeMore actions
+# Arduino Day 2025 Website Prototype
 
 This is a basic HTML project to showcase the Figma prototype for the Arduino Day 2025 website.
 
