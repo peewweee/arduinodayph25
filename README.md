@@ -3,14 +3,16 @@
 This is a basic HTML project to showcase the Figma prototype for the Arduino Day 2025 website.
 
 ## 🔗 Prototype Link
-https://peewweee.github.io/arduinodayph25/
+https://peewweee.github.io/sparkfest2025/
 
 ### Desktop View
 
-![Website](https://github.com/user-attachments/assets/d18ff4b0-f76b-438e-8b69-e08a2089e28e)
+![Desktop-1](https://github.com/user-attachments/assets/5f38453e-122e-4153-8a16-f4eb0d97b458)
+
+![Desktop-2](https://github.com/user-attachments/assets/84854cc5-351f-40fe-a6f6-99dacad3ac6a)
 
 ### Mobile View
 
-![Mobile-1](https://github.com/user-attachments/assets/8ed0c96d-1f06-4fe3-9e94-8c66b028da8a)
+![Mobile-1](https://github.com/user-attachments/assets/10f3a735-d7d0-45d0-86a6-c1d4fe946218)
 
-![Mobile-2](https://github.com/user-attachments/assets/4597fb91-a3e4-4097-9cbe-ca250d760856)
+![Mobile-2](https://github.com/user-attachments/assets/ba51dc5c-024c-4f5f-832c-f4f7c7f651d7)
